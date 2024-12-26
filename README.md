@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/matinsoleymni">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Matt+Heeper;Backend Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=sadjgvasj=true&center=true&vCenter=true&width=265&height=124&lines=Matt+Heeper;Backend Developer" alt="Typing SVG" />
 </a>
 <br/>
 
