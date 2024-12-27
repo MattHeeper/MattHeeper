@@ -1,7 +1,7 @@
 
 <div align="center">
     <h3> 💫 About Me : </h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&duration=3500&pause=1000&color=BFA1AED0&center=true&vCenter=true&width=500&lines=Hi+I'm+Matt+Heeper;FullStack+Developer;I'm+currently+working+AI+%26+Azure;I'm+so+into+Computer+Sicience;I'm+based+in+Iran" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&duration=3500&pause=1000&color=C4C2C2BC&center=true&vCenter=true&width=500&lines=Hi+I'm+Matt+Heeper;FullStack+Developer;I'm+currently+working+AI+%26+Azure;I'm+so+into+Computer+Sicience;I'm+based+in+Iran" alt="Typing SVG" /></a>
 </div>
 
 <hr />
