@@ -1,15 +1,23 @@
 
 ### 💫 About Me:
-<p align="center">
-<a>
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=sadjgvasj=true&center=true&vCenter=true&width=265&height=124&lines=Matt+Heeper;Backend Developer" alt="Type Matt Heeper" />
-</a> 
-</p>
+<div align="center">
+    <a>
+        <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=sadjgvasj=true&center=true&vCenter=true&width=265&height=124&lines=Matt+Heeper;Backend Developer" alt="Type Matt Heeper" />
+    </a> 
+</div>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mattheeper?igshid=NTc4MTIwNjQ2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matt-heeper-34bb14247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/22rymwfXZ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MattHeeper?t=czuN7EdzYy0Em2In459OTA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@mattheeper?sub_confirmation=1) 
 
-# 💻 Tech Stack:
+<div>
+    <!--![Linkedin]--> <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matt-heeper-34bb14247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](' />
+    <!--![]--> <img src='' />
+    <!--![]--> <img src='' />
+    <!--![]--> <img src='' />
+    <!--![]--> <img src='' />
+</div>
+
+### 💻 Tech Stack:
 <div align='center'>
     <!--![Css3]--> <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
     <!--![JavaScript]--> <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
@@ -50,10 +58,16 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MattHeeper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align = 'Center' >
+    <!--![]--> <img src='https://github-profile-trophy.vercel.app/?username=MattHeeper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4' />
+</div>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align = 'Center' >
+    <!--![]--> <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' />
+</div>
+
 
 
 
