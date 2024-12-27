@@ -56,7 +56,7 @@
 
 <div align ='Center' >
     <h3>📊 GitHub Stats :</h3>
-    <a href="https://github.com/MattHeeper">
+    <a href="https://github.com/MattHeeper" align='Center'>
     <!--![]--> <img src='https://github-readme-stats.vercel.app/api?username=MattHeeper&theme=dark&hide_border=false&include_all_commits=false&count_private=false' />
     <!--![]--> <img src='https://github-readme-streak-stats.herokuapp.com/?user=MattHeeper&theme=dark&hide_border=false' />
     <!--![]--> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MattHeeper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
