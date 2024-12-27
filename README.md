@@ -13,7 +13,9 @@
 
 <a href="https://github.com/mattheeper">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,alpinejs,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
+        <img src='https://skillicons.dev/icons?i=github,vscode,azure,git,photoshop,illustrator,xd,figma,webstorm,html,css,sass,js,react,typescript,mysql,jquery,tailwind,laravel,nuxtjs,py,php,mongodb,nodejs,solidjs,windows,vue,powershell&perline=7'>
     </p>
 </a>
+
+
 
