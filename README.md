@@ -56,23 +56,29 @@
 
 <div align ='Center' >
     <h3>📊 GitHub Stats :</h3>
+    <a href="https://github.com/MattHeeper">
     <!--![]--> <img src='https://github-readme-stats.vercel.app/api?username=MattHeeper&theme=dark&hide_border=false&include_all_commits=false&count_private=false' />
     <!--![]--> <img src='https://github-readme-streak-stats.herokuapp.com/?user=MattHeeper&theme=dark&hide_border=false' />
     <!--![]--> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MattHeeper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
+    </a>
 </div>
 
 <hr /> 
 
 <div align = 'Center' >
+    <a href="https://github.com/MattHeeper">
     <h3>🏆 GitHub Trophies :</h3>
     <!--![]--> <img src='https://github-profile-trophy.vercel.app/?username=MattHeeper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4' />
+    </a>
 </div>
 
 <hr /> 
 
 <div align = 'Center' >
     <h3>✍️ Random Dev Quote :</h3>
+    <a href="https://github.com/MattHeeper">
     <!--![]--> <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' />
+    </a>
 </div>
 
 
