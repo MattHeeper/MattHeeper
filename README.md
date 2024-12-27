@@ -9,7 +9,7 @@
 </a> 
 </p>
     <hr>
-<h3>- </h3>
+<h3 align='center'>Expertise : </h3>
 <a href="https://github.com/mattheeper">
     <p align="center">
         <img src='https://skillicons.dev/icons?i=github,vscode,azure,git,photoshop,illustrator,xd,figma,webstorm,html,css,sass,js,react,typescript,mysql,jquery,tailwind,laravel,nuxtjs,py,php,mongodb,nodejs,solidjs,windows,vue,powershell&perline=7&theme=dark'>
