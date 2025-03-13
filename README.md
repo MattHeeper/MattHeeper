@@ -18,7 +18,6 @@
     <!--![Linux]--><img src='https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white' />
     <!--![TypeScript]--> <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
     <!--![Azure]--> <img src='https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white' />
-    <!--![.Net]--> <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' />
     <!--![Bootstrap]--> <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
     <!--![Django]--> <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' />
     <!--![Jquery]--> <img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white' />
